@@ -13,3 +13,6 @@ To use it:
 
 For more detailed information see http://joelinoff.com/blog/?p=1514.
 
+Dependency:
+
+    $ yum install -y redhat-lsb wget
